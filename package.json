@@ -1,5 +1,5 @@
 {
-  "name": "airhorn",
+  "name": "react-native-airhorn",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
